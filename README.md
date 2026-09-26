@@ -1,6 +1,9 @@
-# cotacao
-Aplicativo bem básico para ver cotação de moedas | Very basic app to see currency quotes
+# Currency Quote Viewer
 
-Você vai precisar desse link aqui: https://docs.awesomeapi.com.br/api-de-moedas
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
 
-You will need this link: https://docs.awesomeapi.com.br/api-de-moedas
+A small Kivy application scaffold for displaying currency exchange rates from the AwesomeAPI service.
+
+## Project status
+
+The Python entry point loads a Kivy layout from `tela.kv`; that layout file is not included in this repository yet. Add the view and connect it to the API before launching the interface.
